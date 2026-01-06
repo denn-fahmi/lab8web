@@ -17,4 +17,5 @@ lab8_php_database/
 ```
 ## Langkah-langkah Praktikum
 ### 1. Menjalankan Web Server dan MySQL
-Pada tahap ini, Apache dan MySQL dijalankan melalui **XAMPP Control Panel** untuk memastikan web server dan database dapat digunakan.
+Pada tahap ini, Apache dan MySQL dijalankan melalui **XAMPP Control Panel** untuk memastikan web server dan database dapat digunakan. <p>
+<img src="lab8web/xampp.PNG" width="700"> <p>
