@@ -36,6 +36,7 @@ File **index.php** digunakan untuk menampilkan seluruh data barang dari database
 ### 8. Menambah Data (Create)
 File **tambah.php** berfungsi untuk menambahkan data barang baru ke dalam database melalui form input.
 <img src="web8/tambah.PNG" width="700"> <p>
+<img src="web8/tambah.2.PNG" width="700"> <p>
 ### 9. Mengubah Data (Update)
 File **ubah.php** digunakan untuk mengubah data barang yang sudah ada di dalam database.
 <img src="web8/ubah.PNG" width="700"> <p>
